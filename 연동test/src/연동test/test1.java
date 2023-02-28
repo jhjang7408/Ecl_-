@@ -6,6 +6,8 @@ public class test1 {
 		// TODO Auto-generated method stub
 		// asdfasdfasdf
 		//asdfasdfasdf
+		// 깃허브에서 수정하기
+		// 깃버으세 수성햇음
 	}
 
 }
